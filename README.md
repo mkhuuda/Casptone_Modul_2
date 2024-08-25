@@ -151,17 +151,18 @@ Berdasarkan analisis penentuan harga yang optimal didapatkan hasil harga untuk m
 Kesimpulan
 
 Berdasarkan data understanding, data cleaning dan analisis data yang dilakukan, maka dapat disimpulkan:
-Dari data 'Airbnb Listings Bangkok.csv', digunakan empat variabel yang relevan untuk dilakukan analisis data berdasarkan rumusan masalah dan tujuan yang akan dicapai yaitu: price, number_of_reviews, neighbourhood, dan room_type.
-Data Bersih didapatkan melalui Data Understanding dan Data Cleaning dengan jumlah baris 12346 rows dan 10 columns/variabel untuk kemudian data ini digunakan dalam analisis.
-Berdasarkan hasil analisis data dengan menggunakan variabel 'neighbourhood' dan 'number_of_reviews' didapatkan hasil wilayah yang tepat untuk dilakukan ekspansi Airbnb baru yaitu Khlong Toei, kemudian diikuti dengan Vadhana, Ratchathewi, Huai Khwang, Sathon, Bang Rak, Phra Nakhon, Chatu Chak, Phra Khanong dan Din Daeng.
-Tipe Kamar yang paling tepat berdasarkan popularitas kamar dan Bar Plot yang telah dibuat adalah Entire home/apt, kemudian alternatif lain yang paling populer adalah Private room, diikuti hotel room dan shared room.
-Harga optimal dan rentang harga optimal untuk masing-masing tipe kamar dalam dollar adalah: Shared Room: harga di 486 dan rentang harga di 390-550, Private Room: harga di 1282 dan rentang harga di 890-1990, Entire room/apt: Harga di 1543 dan rentang harga optimal di 1097,5 hingga 2277 serta Hotel room: Harga di 1600 dengan rentang harga di 984-2583.
+
+1. Dari data 'Airbnb Listings Bangkok.csv', digunakan empat variabel yang relevan untuk dilakukan analisis data berdasarkan rumusan masalah dan tujuan yang akan dicapai yaitu: price, number_of_reviews, neighbourhood, dan room_type.
+2. Data Bersih didapatkan melalui Data Understanding dan Data Cleaning dengan jumlah baris 12346 rows dan 10 columns/variabel untuk kemudian data ini digunakan dalam analisis.
+3. Berdasarkan hasil analisis data dengan menggunakan variabel 'neighbourhood' dan 'number_of_reviews' didapatkan hasil wilayah yang tepat untuk dilakukan ekspansi Airbnb baru yaitu Khlong Toei, kemudian diikuti dengan Vadhana, Ratchathewi, Huai Khwang, Sathon, Bang Rak, Phra Nakhon, Chatu Chak, Phra Khanong dan Din Daeng.
+4. Tipe Kamar yang paling tepat berdasarkan popularitas kamar dan Bar Plot yang telah dibuat adalah Entire home/apt, kemudian alternatif lain yang paling populer adalah Private room, diikuti hotel room dan shared room.
+5. Harga optimal dan rentang harga optimal untuk masing-masing tipe kamar dalam dollar adalah: Shared Room: harga di 486 dan rentang harga di 390-550, Private Room: harga di 1282 dan rentang harga di 890-1990, Entire room/apt: Harga di 1543 dan rentang harga optimal di 1097,5 hingga 2277 serta Hotel room: Harga di 1600 dengan rentang harga di 984-2583.
 Rekomendasi
 
 Berdasarkan analisis dan kesimpulan yang didapatkan, maka dapat diberikan rekomendasi untuk Perusahaan Airbnb yang akan melakukan ekspansi properti baru sebagai berikut:
-Wilayah yang paling tepat dilakukan ekspansi adalah Khlong Toei, kemudian untuk alternatif lain wilayah yang paling tepat adalah Vadhana, Ratchathewi, Huai Khwang, Sathon, Bang Rak, Phra Nakhon, Chatu Chak, Phra Khanong dan Din Daeng. Artinya untuk menentukan wilayah ekpansi Aribnb baru akan optimal jika berada di 10 wilayah tersebut. Penentuan wilayah ini mungkin akan dipengaruhi oleh faktor lain di luar data yang diketahui.
-Perusahaan seharusnya melakukan ekspansi di wilayah terpilih dengan memprioritaskan tipe kamar Entire home/apt. Namun jika menginginkan adanya variasi, maka private room dapat menjadi pilihan berikutnya diikuti dengan hotel room dan shared room sebagai pilihan terkahir.
-Berdasarkan analisis penentuan harga yang optimal didapatkan hasil harga untuk masing-masing tipe kamar dalam dollar, sebagai berikut:
+1. Wilayah yang paling tepat dilakukan ekspansi adalah Khlong Toei, kemudian untuk alternatif lain wilayah yang paling tepat adalah Vadhana, Ratchathewi, Huai Khwang, Sathon, Bang Rak, Phra Nakhon, Chatu Chak, Phra Khanong dan Din Daeng. Artinya untuk menentukan wilayah ekpansi Aribnb baru akan optimal jika berada di 10 wilayah tersebut. Penentuan wilayah ini mungkin akan dipengaruhi oleh faktor lain di luar data yang diketahui.
+2. Perusahaan seharusnya melakukan ekspansi di wilayah terpilih dengan memprioritaskan tipe kamar Entire home/apt. Namun jika menginginkan adanya variasi, maka private room dapat menjadi pilihan berikutnya diikuti dengan hotel room dan shared room sebagai pilihan terkahir.
+3. Berdasarkan analisis penentuan harga yang optimal didapatkan hasil harga untuk masing-masing tipe kamar dalam dollar, sebagai berikut:
 a. Shared Room: Harga optimal di 486 dengan rentang harga optimal di 390 hingga 550
 b. Private Room: Harga optimal di 1282 dengan rentang harga optimal di 890 hingga 1990
 c. Entire room/apt: Harga optimal di 1543 dengan rentang harga optimal di 1097,5 hingga 2277
